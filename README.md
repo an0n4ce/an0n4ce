@@ -2,7 +2,7 @@
 
 - I’m a Cyber Security Enthusiast driven by curiosity and experimenting ways to exploit the cyberspace.
 
-- Penetration Tester | CTF player | Bug hunter
+- CEH | Penetration Tester | CTF player | Bug hunter
 
 ### 📫 Reach me:
 
