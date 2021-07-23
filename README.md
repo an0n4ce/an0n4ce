@@ -4,6 +4,8 @@
 
 - CEH / Pentester / CTF player / Bug hunter
 
+![an0n4ce's github stats](https://github-readme-stats.vercel.app/api?username=an0n4ce&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=dark)
+
 ### <img width="27px" src="img/mes.gif" /> Reach me:
 
 [<img align="left" alt=" Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
