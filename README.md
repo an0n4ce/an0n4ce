@@ -1,4 +1,5 @@
-## <img width="25px" src="/img/hand.gif" /> Hi There, I'm Vishnu Sudhakaran - aka [an0n4ce](https://twitter.com/an0n4ce)
+## <img width="25px" src="/img/hand.gif" /> Hi There, I'm Vishnu Sudhakaran - aka [an0n4ce](https://anonace.me)
+[![Twitter Follow](https://img.shields.io/twitter/follow/an0n4ce?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/an0n4ce&screen_name=an0n4ce)
 
 I’m a Cyber Security Enthusiast driven by curiosity and experimenting ways to exploit the cyberspace.
 
