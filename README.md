@@ -4,7 +4,7 @@ I’m a Cyber Security Enthusiast driven by curiosity and experimenting ways to 
 
 ### CEH / Pentester / CTF player / Bug hunter
 
-![an0n4ce's github stats](https://github-readme-stats.vercel.app/api?username=an0n4ce&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=dark)
+![an0n4ce's github stats](https://github-readme-stats.vercel.app/api?username=an0n4ce&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=radical)
 
 ### <img width="27px" src="/img/mes.gif" /> Reach me:
 
