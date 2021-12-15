@@ -19,3 +19,4 @@ I’m a Cyber Security Enthusiast driven by curiosity and experimenting ways to 
 [gmail]: mailto:an0n4ce@gmail.com
 
 
+![snake gif](https://github.com/sachinoliver/sachinoliver/blob/output/github-contribution-grid-snake.svg)
