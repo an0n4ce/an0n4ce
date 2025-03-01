@@ -5,8 +5,7 @@ I'm currently working as Cyber Security Consultant at [**SISAInfosec**](https://
 
 ### CEH / VAPT / CTF player / Bug hunter
 
-![an0n4ce's github stats](https://github-readme-stats.vercel.app/api?username=an0n4ce&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=nightowl![image](https://github.com/user-attachments/assets/8f2288f1-c081-4de8-8f7c-b07c340d5c9f)
-)
+![an0n4ce's github stats](https://github-readme-stats.vercel.app/api?username=an0n4ce&theme=shadow_red&show_icons=true)
 
 ### <img width="20px" src="/img/mes.gif" width="120" height="40" /> Reach me:
 
