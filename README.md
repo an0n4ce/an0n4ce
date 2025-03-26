@@ -19,5 +19,6 @@ I'm currently working as Cyber Security Consultant at [**SISAInfosec**](https://
 [instagram]: https://www.instagram.com/an0n4ce/
 [gmail]: mailto:an0n4ce@gmail.com
 
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/an0n4ce/an0n4ce/output/github-contribution-grid-snake-dark.svg" />
 
 ![snake gif](https://github.com/an0n4ce/an0n4ce/blob/output/github-contribution-grid-snake.svg)
