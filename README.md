@@ -14,11 +14,10 @@ I'm currently working as Cyber Security Consultant at [**SISAInfosec**](https://
 [<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
-[twitter]: https://twitter.com/an0n4ce/
+[twitter]: https://x.com/an0n4ce/
 [linkedin]: https://www.linkedin.com/in/an0n4ce/
 [instagram]: https://www.instagram.com/an0n4ce/
 [gmail]: mailto:an0n4ce@gmail.com
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/an0n4ce/an0n4ce/output/github-contribution-grid-snake-dark.svg" />
 
-![snake gif](https://github.com/an0n4ce/an0n4ce/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/an0n4ce/an0n4ce/blob/output/github-contribution-grid-snake-dark.svg)
